@@ -1,6 +1,7 @@
 # win11-dotfiles
 
 My latest Windows rice inspired from Selenized theme. See more screenshots from [here](assets/screenshots/)
+
 ![](assets/screenshots/02.png)
 ![](assets/screenshots/03.png)
 
