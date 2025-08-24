@@ -1,0 +1,194 @@
+{
+    "$help": "https://aka.ms/terminal-documentation",
+    "$schema": "https://aka.ms/terminal-profiles-schema",
+    "actions": [],
+    "alwaysShowTabs": true,
+    "copyFormatting": "none",
+    "copyOnSelect": false,
+    "defaultProfile": "{574e775e-4f2a-5b96-ac1e-a2962a402336}",
+    "keybindings": 
+    [
+        {
+            "id": "Terminal.CopyToClipboard",
+            "keys": "ctrl+c"
+        },
+        {
+            "id": "Terminal.FindText",
+            "keys": "ctrl+shift+f"
+        },
+        {
+            "id": "Terminal.PasteFromClipboard",
+            "keys": "ctrl+v"
+        },
+        {
+            "id": "Terminal.DuplicatePaneAuto",
+            "keys": "alt+shift+d"
+        }
+    ],
+    "launchMode": "focus",
+    "newTabMenu": 
+    [
+        {
+            "type": "remainingProfiles"
+        }
+    ],
+    "profiles": 
+    {
+        "defaults": 
+        {
+            "adjustIndistinguishableColors": "indexed",
+            "colorScheme": "Selenized dark",
+            "cursorShape": "emptyBox",
+            "experimental.retroTerminalEffect": false,
+            "font": 
+            {
+                "face": "FantasqueSansM Nerd Font Mono"
+            },
+            "opacity": 80,
+            "useAcrylic": true
+        },
+        "list": 
+        [
+            {
+                "colorScheme": "Selenized dark",
+                "commandline": "%SystemRoot%\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+                "cursorShape": "emptyBox",
+                "font": 
+                {
+                    "face": "FantasqueSansM Nerd Font Mono"
+                },
+                "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
+                "hidden": false,
+                "name": "Windows PowerShell",
+                "opacity": 80,
+                "useAcrylic": true
+            },
+            {
+                "commandline": "%SystemRoot%\\System32\\cmd.exe",
+                "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
+                "hidden": false,
+                "name": "Command Prompt"
+            },
+            {
+                "guid": "{b453ae62-4e3d-5e58-b989-0a998ec441b8}",
+                "hidden": false,
+                "name": "Azure Cloud Shell",
+                "source": "Windows.Terminal.Azure"
+            },
+            {
+                "colorScheme": "Selenized dark",
+                "cursorShape": "emptyBox",
+                "font": 
+                {
+                    "face": "FantasqueSansM Nerd Font Mono"
+                },
+                "guid": "{574e775e-4f2a-5b96-ac1e-a2962a402336}",
+                "hidden": false,
+                "name": "PowerShell",
+                "opacity": 80,
+                "source": "Windows.Terminal.PowershellCore",
+                "useAcrylic": true
+            }
+        ]
+    },
+    "schemes": 
+    [
+        {
+            "background": "#181818",
+            "black": "#252525",
+            "blue": "#368AEB",
+            "brightBlack": "#3B3B3B",
+            "brightBlue": "#4F9CFE",
+            "brightCyan": "#56D8C9",
+            "brightGreen": "#83C746",
+            "brightPurple": "#FF81CA",
+            "brightRed": "#FF5E56",
+            "brightWhite": "#DEDEDE",
+            "brightYellow": "#EFC541",
+            "cursorColor": "#DEDEDE",
+            "cyan": "#3FC5B7",
+            "foreground": "#B9B9B9",
+            "green": "#70B433",
+            "name": "Selenized black",
+            "purple": "#EB6EB7",
+            "red": "#ED4A46",
+            "selectionBackground": "#3B3B3B",
+            "white": "#777777",
+            "yellow": "#DBB32D"
+        },
+        {
+            "background": "#103C48",
+            "black": "#174956",
+            "blue": "#4695F7",
+            "brightBlack": "#325B66",
+            "brightBlue": "#58A3FF",
+            "brightCyan": "#53D6C7",
+            "brightGreen": "#84C747",
+            "brightPurple": "#FF84CD",
+            "brightRed": "#FF665C",
+            "brightWhite": "#CAD8D9",
+            "brightYellow": "#EBC13D",
+            "cursorColor": "#CAD8D9",
+            "cyan": "#41C7B9",
+            "foreground": "#ADBCBC",
+            "green": "#75B938",
+            "name": "Selenized dark",
+            "purple": "#F275BE",
+            "red": "#FA5750",
+            "selectionBackground": "#325B66",
+            "white": "#72898F",
+            "yellow": "#DBB32D"
+        },
+        {
+            "background": "#FBF3DB",
+            "black": "#E9E4D0",
+            "blue": "#0072D4",
+            "brightBlack": "#CFCEBE",
+            "brightBlue": "#006DCE",
+            "brightCyan": "#00978A",
+            "brightGreen": "#428B00",
+            "brightPurple": "#C44392",
+            "brightRed": "#CC1729",
+            "brightWhite": "#3A4D53",
+            "brightYellow": "#A78300",
+            "cursorColor": "#3A4D53",
+            "cyan": "#009C8F",
+            "foreground": "#53676D",
+            "green": "#489100",
+            "name": "Selenized light",
+            "purple": "#CA4898",
+            "red": "#D2212D",
+            "selectionBackground": "#CFCEBE",
+            "white": "#909995",
+            "yellow": "#AD8900"
+        },
+        {
+            "background": "#FFFFFF",
+            "black": "#EBEBEB",
+            "blue": "#0064E4",
+            "brightBlack": "#CDCDCD",
+            "brightBlue": "#0054CF",
+            "brightCyan": "#009A8A",
+            "brightGreen": "#008400",
+            "brightPurple": "#C7008B",
+            "brightRed": "#BF0000",
+            "brightWhite": "#282828",
+            "brightYellow": "#AF8500",
+            "cursorColor": "#282828",
+            "cyan": "#00AD9C",
+            "foreground": "#474747",
+            "green": "#1D9700",
+            "name": "Selenized white",
+            "purple": "#DD0F9D",
+            "red": "#D6000C",
+            "selectionBackground": "#CDCDCD",
+            "white": "#878787",
+            "yellow": "#C49700"
+        }
+    ],
+    "showTabsInTitlebar": true,
+    "showTerminalTitleInTitlebar": false,
+    "theme": "dark",
+    "themes": [],
+    "useAcrylicInTabRow": true
+}
