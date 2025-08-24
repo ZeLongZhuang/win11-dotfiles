@@ -42,6 +42,7 @@ My latest Windows rice inspired from Selenized theme. See more screenshots from 
 - Firefox with [Tabliss extension](https://tabliss.io/)
 - Spotify with [Spicetify theme](https://github.com/spicetify/spicetify-themes/tree/master)
 - Obsidian
+- VS Code
 
 ## Other softwares
 
