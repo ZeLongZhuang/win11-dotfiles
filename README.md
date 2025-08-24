@@ -1,6 +1,6 @@
 # win11-dotfiles
 
-My latest Windows rice inspired from Selenized theme. See more screenshots from [here](assets/screenshots/)
+My latest Windows rice inspired from Selenized theme. Using [komorebi](https://github.com/LGUG2Z/komorebi/) and [yasb](https://github.com/amnweb/yasb). See more screenshots from [here](assets/screenshots/)
 
 ![](assets/screenshots/02.png)
 ![](assets/screenshots/03.png)
