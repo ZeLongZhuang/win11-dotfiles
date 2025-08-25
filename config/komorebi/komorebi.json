@@ -3,6 +3,7 @@
   "app_specific_configuration_path": "$Env:KOMOREBI_CONFIG_HOME/applications.json",
   "window_hiding_behaviour": "Cloak",
   "mouse_follows_focus": true,
+  "cross_boundary_behaviour": "Monitor",
   "cross_monitor_move_behaviour": "Insert",
   "default_workspace_padding": 25,
   "default_container_padding": 5,
@@ -15,13 +16,10 @@
     "unfocused_border": "Base03",
     "bar_accent": "Base0D"
   },
-  "manage_rules": [
-    {
-      "kind": "Exe",
-      "id": "btop.exe",
-      "matching_strategy": "Equals"
-    }
-  ],
+  "display_index_preferences": {
+    "0": "SET_TO_YOUR_OWN_MONITOR_SERIAL_ID",
+    "1": "SET_TO_YOUR_OWN_MONITOR_SERIAL_ID"
+  },
   "monitors": [
     {
       "workspaces": [
