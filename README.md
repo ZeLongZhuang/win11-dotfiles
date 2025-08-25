@@ -5,6 +5,18 @@ My latest Windows rice inspired from Selenized theme. See more screenshots from 
 ![](assets/screenshots/02.png)
 ![](assets/screenshots/03.png)
 
+<details>
+
+<summary>Expand for more screenshots</summary>
+
+![](assets/screenshots/01.png)
+![](assets/screenshots/04.png)
+![](assets/screenshots/05.png)
+![](assets/screenshots/06.png)
+![](assets/screenshots/07.png)
+
+</details>
+
 ## File Structure (more for my own reference)
 
 ```
