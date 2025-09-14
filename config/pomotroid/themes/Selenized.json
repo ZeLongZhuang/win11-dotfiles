@@ -1,0 +1,15 @@
+{
+  "name": "Selenized",
+  "colors": {
+    "--color-long-round": "#dbb32d",
+    "--color-short-round": "#75b938",
+    "--color-focus-round": "#fa5750",
+    "--color-background": "#103c48",
+    "--color-background-light": "#174956",
+    "--color-background-lightest": "#325b66",
+    "--color-foreground": "#cad8d9",
+    "--color-foreground-darker": "#72898f",
+    "--color-foreground-darkest": "#88a0a4",
+    "--color-accent": "#4695f7"
+  }
+}

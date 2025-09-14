@@ -37,6 +37,9 @@ My latest Windows rice inspired from Selenized theme. Using [komorebi](https://g
 ├── FlowLauncher
     ├── Themes
         ├── SelenizedDark.xaml
+├── pomotroid
+    ├── Themes
+        ├── Selenized.json
 ├── spicetify
     ├── Themes
         ├── text
